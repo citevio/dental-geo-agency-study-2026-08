@@ -2,8 +2,7 @@
 
 Every release is archived on Zenodo under concept DOI [10.5281/zenodo.21833256](https://doi.org/10.5281/zenodo.21833256). Files are **added** between versions; earlier versions are never modified or withdrawn, and each keeps its own permanent DOI.
 
-## Unreleased — added after the v2026-08 archive
-
+## v2026-10 — 4 October 2026 (DOI 10.5281/zenodo.23143214)
 **Added**
 
 - `data/citevio-agency-study-2026-08-v2-answers.csv` (82 rows) and `data/citevio-agency-study-2026-08-v2-agencies.csv` (45 rows) — answer-level and agency-level records from Citevio's dental GEO agency-naming study, 20–21 August 2026 (ChatGPT and Perplexity, 23 questions, 2 runs each).
