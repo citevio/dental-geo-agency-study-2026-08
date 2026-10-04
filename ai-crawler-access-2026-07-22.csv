@@ -1,0 +1,59 @@
+metric,segment,breakdown,group,n,denominator,pct,denominator_definition
+robots_txt_verdict,"blocks some paths, no crawler blocked at the root",all,ALL,2950,6497,45.4,domains whose robots.txt could be fetched
+robots_txt_verdict,"robots.txt present, nothing blocked at the root",all,ALL,2069,6497,31.8,domains whose robots.txt could be fetched
+robots_txt_verdict,blocks at least one tested crawler at the root,all,ALL,739,6497,11.4,domains whose robots.txt could be fetched
+robots_txt_verdict,no robots.txt file returned,all,ALL,739,6497,11.4,domains whose robots.txt could be fetched
+assistant_crawlers_blocked,"blocks at least one crawler run by OpenAI, Anthropic or Perplexity",all,ALL,496,6497,7.6,domains whose robots.txt could be fetched
+crawler_blocked_at_root,GPTBot,all,ALL,458,6497,7.0,domains whose robots.txt could be fetched
+crawler_blocked_at_root,OAI-SearchBot,all,ALL,26,6497,0.4,domains whose robots.txt could be fetched
+crawler_blocked_at_root,ChatGPT-User,all,ALL,29,6497,0.4,domains whose robots.txt could be fetched
+crawler_blocked_at_root,ClaudeBot,all,ALL,484,6497,7.4,domains whose robots.txt could be fetched
+crawler_blocked_at_root,anthropic-ai,all,ALL,290,6497,4.5,domains whose robots.txt could be fetched
+crawler_blocked_at_root,PerplexityBot,all,ALL,272,6497,4.2,domains whose robots.txt could be fetched
+crawler_blocked_at_root,Perplexity-User,all,ALL,27,6497,0.4,domains whose robots.txt could be fetched
+crawler_blocked_at_root,Google-Extended,all,ALL,223,6497,3.4,domains whose robots.txt could be fetched
+crawler_blocked_at_root,Applebot-Extended,all,ALL,239,6497,3.7,domains whose robots.txt could be fetched
+crawler_blocked_at_root,Bingbot,all,ALL,21,6497,0.3,domains whose robots.txt could be fetched
+crawler_blocked_at_root,CCBot,all,ALL,471,6497,7.2,domains whose robots.txt could be fetched
+crawler_blocked_at_root,Bytespider,all,ALL,722,6497,11.1,domains whose robots.txt could be fetched
+crawler_blocked_at_root,meta-externalagent,all,ALL,483,6497,7.4,domains whose robots.txt could be fetched
+robots_txt_verdict,blocks at least one tested crawler at the root,state,California,263,1751,15.0,domains read in California (published only where n>=300)
+robots_txt_verdict,no robots.txt file returned,state,California,222,1751,12.7,domains read in California (published only where n>=300)
+robots_txt_verdict,"blocks some paths, no crawler blocked at the root",state,California,720,1751,41.1,domains read in California (published only where n>=300)
+robots_txt_verdict,"robots.txt present, nothing blocked at the root",state,California,546,1751,31.2,domains read in California (published only where n>=300)
+assistant_crawlers_blocked,"blocks at least one crawler run by OpenAI, Anthropic or Perplexity",state,California,203,1751,11.6,domains read in California (published only where n>=300)
+robots_txt_verdict,blocks at least one tested crawler at the root,state,Texas,80,1151,7.0,domains read in Texas (published only where n>=300)
+robots_txt_verdict,no robots.txt file returned,state,Texas,139,1151,12.1,domains read in Texas (published only where n>=300)
+robots_txt_verdict,"blocks some paths, no crawler blocked at the root",state,Texas,522,1151,45.4,domains read in Texas (published only where n>=300)
+robots_txt_verdict,"robots.txt present, nothing blocked at the root",state,Texas,410,1151,35.6,domains read in Texas (published only where n>=300)
+assistant_crawlers_blocked,"blocks at least one crawler run by OpenAI, Anthropic or Perplexity",state,Texas,55,1151,4.8,domains read in Texas (published only where n>=300)
+robots_txt_verdict,blocks at least one tested crawler at the root,state,Arizona,40,474,8.4,domains read in Arizona (published only where n>=300)
+robots_txt_verdict,no robots.txt file returned,state,Arizona,50,474,10.5,domains read in Arizona (published only where n>=300)
+robots_txt_verdict,"blocks some paths, no crawler blocked at the root",state,Arizona,245,474,51.7,domains read in Arizona (published only where n>=300)
+robots_txt_verdict,"robots.txt present, nothing blocked at the root",state,Arizona,139,474,29.3,domains read in Arizona (published only where n>=300)
+assistant_crawlers_blocked,"blocks at least one crawler run by OpenAI, Anthropic or Perplexity",state,Arizona,30,474,6.3,domains read in Arizona (published only where n>=300)
+robots_txt_verdict,blocks at least one tested crawler at the root,state,Illinois,36,300,12.0,domains read in Illinois (published only where n>=300)
+robots_txt_verdict,no robots.txt file returned,state,Illinois,41,300,13.7,domains read in Illinois (published only where n>=300)
+robots_txt_verdict,"blocks some paths, no crawler blocked at the root",state,Illinois,132,300,44.0,domains read in Illinois (published only where n>=300)
+robots_txt_verdict,"robots.txt present, nothing blocked at the root",state,Illinois,91,300,30.3,domains read in Illinois (published only where n>=300)
+assistant_crawlers_blocked,"blocks at least one crawler run by OpenAI, Anthropic or Perplexity",state,Illinois,17,300,5.7,domains read in Illinois (published only where n>=300)
+robots_txt_verdict,blocks at least one tested crawler at the root,category,Dentist,493,3929,12.5,domains in category 'Dentist' (published only where n>=300)
+robots_txt_verdict,no robots.txt file returned,category,Dentist,467,3929,11.9,domains in category 'Dentist' (published only where n>=300)
+robots_txt_verdict,"blocks some paths, no crawler blocked at the root",category,Dentist,1756,3929,44.7,domains in category 'Dentist' (published only where n>=300)
+robots_txt_verdict,"robots.txt present, nothing blocked at the root",category,Dentist,1213,3929,30.9,domains in category 'Dentist' (published only where n>=300)
+assistant_crawlers_blocked,"blocks at least one crawler run by OpenAI, Anthropic or Perplexity",category,Dentist,327,3929,8.3,domains in category 'Dentist' (published only where n>=300)
+robots_txt_verdict,blocks at least one tested crawler at the root,category,Cosmetic dentist,83,756,11.0,domains in category 'Cosmetic dentist' (published only where n>=300)
+robots_txt_verdict,no robots.txt file returned,category,Cosmetic dentist,86,756,11.4,domains in category 'Cosmetic dentist' (published only where n>=300)
+robots_txt_verdict,"blocks some paths, no crawler blocked at the root",category,Cosmetic dentist,315,756,41.7,domains in category 'Cosmetic dentist' (published only where n>=300)
+robots_txt_verdict,"robots.txt present, nothing blocked at the root",category,Cosmetic dentist,272,756,36.0,domains in category 'Cosmetic dentist' (published only where n>=300)
+assistant_crawlers_blocked,"blocks at least one crawler run by OpenAI, Anthropic or Perplexity",category,Cosmetic dentist,61,756,8.1,domains in category 'Cosmetic dentist' (published only where n>=300)
+robots_txt_verdict,blocks at least one tested crawler at the root,category,Orthodontist,20,415,4.8,domains in category 'Orthodontist' (published only where n>=300)
+robots_txt_verdict,no robots.txt file returned,category,Orthodontist,42,415,10.1,domains in category 'Orthodontist' (published only where n>=300)
+robots_txt_verdict,"blocks some paths, no crawler blocked at the root",category,Orthodontist,210,415,50.6,domains in category 'Orthodontist' (published only where n>=300)
+robots_txt_verdict,"robots.txt present, nothing blocked at the root",category,Orthodontist,143,415,34.5,domains in category 'Orthodontist' (published only where n>=300)
+assistant_crawlers_blocked,"blocks at least one crawler run by OpenAI, Anthropic or Perplexity",category,Orthodontist,17,415,4.1,domains in category 'Orthodontist' (published only where n>=300)
+robots_txt_verdict,blocks at least one tested crawler at the root,category,Dental clinic,42,382,11.0,domains in category 'Dental clinic' (published only where n>=300)
+robots_txt_verdict,no robots.txt file returned,category,Dental clinic,42,382,11.0,domains in category 'Dental clinic' (published only where n>=300)
+robots_txt_verdict,"blocks some paths, no crawler blocked at the root",category,Dental clinic,179,382,46.9,domains in category 'Dental clinic' (published only where n>=300)
+robots_txt_verdict,"robots.txt present, nothing blocked at the root",category,Dental clinic,119,382,31.2,domains in category 'Dental clinic' (published only where n>=300)
+assistant_crawlers_blocked,"blocks at least one crawler run by OpenAI, Anthropic or Perplexity",category,Dental clinic,28,382,7.3,domains in category 'Dental clinic' (published only where n>=300)

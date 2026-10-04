@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below. State which file and which date you used."
+type: dataset
+title: "Dental AI Visibility Data: US Dental Practice Websites, AI Search Crawler Access, and a Vendor Self-Measurement Run Log (2026)"
+abstract: >-
+  Five anonymized, aggregated CSV datasets. Four are dental market scans covering
+  how US dental practice websites are built and how they respond to AI search
+  crawlers: structured data, publishing platform, robots.txt handling of 13 named
+  AI and data crawlers, live server behavior toward those crawlers, Google review
+  and rating signals, and site speed. They are built from Citevio's own scans of
+  527 dental practices (7 US metros plus 9 smaller nearby towns, June 2026),
+  6,497 dental-related domains nationwide (July 2026), and 499 sites tested for
+  live crawler access (July 2026). The fifth file is a separately marked vendor
+  self-measurement log: 13 completed answer-engine runs (August 2026) recording
+  whether the publisher's own name and domain appeared in responses to fixed
+  queries. It measures the publisher, not the market, and supports no statement
+  about dental practices. Row-level records, practice domains, and raw engine
+  response text are not published; every file holds counts or per-run outcome
+  flags only.
+authors:
+  - name: "Citevio"
+    website: "https://citevio.com"
+    email: "contact@citevio.com"
+  - given-names: "Muhammed Veysel"
+    family-names: "Erin"
+    affiliation: "Citevio"
+    orcid: "https://orcid.org/0009-0006-9114-9450"
+url: "https://citevio.com/data"
+repository-code: "https://github.com/citevio/dental-ai-visibility-2026"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21833256"
+    description: "Concept DOI — always resolves to the newest version."
+license: "CC-BY-4.0"
+date-released: "2026-08-18"
+version: "2026-08"
+keywords:
+  - "generative engine optimization"
+  - "answer engine optimization"
+  - "ai search visibility"
+  - "dental marketing data"
+  - "robots.txt"
+  - "self-measurement"
+  - "open data"

@@ -1,0 +1,28 @@
+{
+  "title": "Dental AI Visibility Data: US Dental Practice Websites, AI Search Crawler Access, and a Vendor Self-Measurement Run Log (2026)",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "2026-08",
+  "language": "eng",
+  "description": "<p>Five anonymized, aggregated CSV datasets published by <a href=\"https://citevio.com\">Citevio</a>.</p><p><strong>Four dental market scans:</strong> how US dental practice websites are built and how they respond to AI search crawlers &mdash; structured data, publishing platform, robots.txt handling of 13 named AI and data crawlers, live server behaviour toward those crawlers, Google review and rating signals, and site speed. Built from Citevio's own scans of 527 dental practices (7 US metros plus 9 smaller nearby towns, June 2026), 6,497 dental-related domains nationwide (July 2026), and 499 sites tested for live crawler access (July 2026).</p><p><strong>One vendor self-measurement log (new in v2026-08):</strong> 13 completed answer-engine runs on fixed queries, 15&ndash;16 August 2026, recording whether the publisher's own name and domain appeared in the response. <em>This file measures the publisher, not the dental market.</em> It is a vendor self-report published for transparency about Citevio's own claims; it is not independent research and supports no statement about dental practices, competitors, or answer engines in general.</p><p>Row-level records, practice domains, and raw engine response text are not published. Read LIMITATIONS.md before quoting any figure; every number is a dated snapshot and a percentage without its denominator is how summaries go wrong.</p>",
+  "creators": [
+    {
+      "name": "Citevio"
+    },
+    {
+      "name": "Erin, Muhammed Veysel",
+      "affiliation": "Citevio",
+      "orcid": "0009-0006-9114-9450"
+    }
+  ],
+  "keywords": [
+    "generative engine optimization",
+    "answer engine optimization",
+    "ai search visibility",
+    "dental marketing data",
+    "robots.txt",
+    "self-measurement",
+    "open data"
+  ]
+}

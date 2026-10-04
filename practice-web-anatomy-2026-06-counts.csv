@@ -1,0 +1,103 @@
+metric,segment,metro,n,denominator,pct,denominator_definition
+coverage,practices scanned,Charlotte,153,527,29.0,all scanned practices
+coverage,practices scanned,Austin,112,527,21.3,all scanned practices
+coverage,practices scanned,Raleigh,64,527,12.1,all scanned practices
+coverage,practices scanned,Nashville,59,527,11.2,all scanned practices
+coverage,practices scanned,Columbus,56,527,10.6,all scanned practices
+coverage,practices scanned,Tampa,42,527,8.0,all scanned practices
+coverage,practices scanned,Salt Lake City,20,527,3.8,all scanned practices
+coverage,practices scanned,Other (9 smaller towns),21,527,4.0,all scanned practices
+platform,WordPress,ALL,289,527,54.8,all scanned practices
+platform,Custom/Unknown,ALL,187,527,35.5,all scanned practices
+platform,Wix,ALL,28,527,5.3,all scanned practices
+platform,Squarespace,ALL,22,527,4.2,all scanned practices
+platform,Shopify,ALL,1,527,0.2,all scanned practices
+platform,WordPress,Charlotte,91,153,59.5,practices scanned in this metro
+platform,Custom/Unknown,Charlotte,50,153,32.7,practices scanned in this metro
+platform,Wix,Charlotte,7,153,4.6,practices scanned in this metro
+platform,Squarespace,Charlotte,5,153,3.3,practices scanned in this metro
+platform,WordPress,Austin,61,112,54.5,practices scanned in this metro
+platform,Custom/Unknown,Austin,37,112,33.0,practices scanned in this metro
+platform,Wix,Austin,8,112,7.1,practices scanned in this metro
+platform,Squarespace,Austin,6,112,5.4,practices scanned in this metro
+platform,WordPress,Raleigh,36,64,56.2,practices scanned in this metro
+platform,Custom/Unknown,Raleigh,22,64,34.4,practices scanned in this metro
+platform,Wix,Raleigh,4,64,6.2,practices scanned in this metro
+platform,Squarespace,Raleigh,2,64,3.1,practices scanned in this metro
+platform,WordPress,Nashville,30,59,50.8,practices scanned in this metro
+platform,Custom/Unknown,Nashville,22,59,37.3,practices scanned in this metro
+platform,Squarespace,Nashville,4,59,6.8,practices scanned in this metro
+platform,Wix,Nashville,2,59,3.4,practices scanned in this metro
+platform,Shopify,Nashville,1,59,1.7,practices scanned in this metro
+platform,Custom/Unknown,Columbus,26,56,46.4,practices scanned in this metro
+platform,WordPress,Columbus,24,56,42.9,practices scanned in this metro
+platform,Wix,Columbus,5,56,8.9,practices scanned in this metro
+platform,Squarespace,Columbus,1,56,1.8,practices scanned in this metro
+platform,WordPress,Tampa,26,42,61.9,practices scanned in this metro
+platform,Custom/Unknown,Tampa,13,42,31.0,practices scanned in this metro
+platform,Squarespace,Tampa,2,42,4.8,practices scanned in this metro
+platform,Wix,Tampa,1,42,2.4,practices scanned in this metro
+platform,WordPress,Salt Lake City,11,20,55.0,practices scanned in this metro
+platform,Custom/Unknown,Salt Lake City,7,20,35.0,practices scanned in this metro
+platform,Squarespace,Salt Lake City,2,20,10.0,practices scanned in this metro
+platform,WordPress,Other (9 smaller towns),10,21,47.6,practices scanned in this metro
+platform,Custom/Unknown,Other (9 smaller towns),10,21,47.6,practices scanned in this metro
+platform,Wix,Other (9 smaller towns),1,21,4.8,practices scanned in this metro
+robots,Open to every AI crawler tested,ALL,492,527,93.4,practices with a valid reading; measurement errors (0) excluded
+robots,No robots.txt file found,ALL,20,527,3.8,practices with a valid reading; measurement errors (0) excluded
+robots,Blocks at least one AI crawler,ALL,15,527,2.8,practices with a valid reading; measurement errors (0) excluded
+robots,Open to every AI crawler tested,Charlotte,146,153,95.4,practices with a valid reading in this metro
+robots,Blocks at least one AI crawler,Charlotte,4,153,2.6,practices with a valid reading in this metro
+robots,No robots.txt file found,Charlotte,3,153,2.0,practices with a valid reading in this metro
+robots,Open to every AI crawler tested,Austin,107,112,95.5,practices with a valid reading in this metro
+robots,No robots.txt file found,Austin,3,112,2.7,practices with a valid reading in this metro
+robots,Blocks at least one AI crawler,Austin,2,112,1.8,practices with a valid reading in this metro
+robots,Open to every AI crawler tested,Raleigh,62,64,96.9,practices with a valid reading in this metro
+robots,Blocks at least one AI crawler,Raleigh,1,64,1.6,practices with a valid reading in this metro
+robots,No robots.txt file found,Raleigh,1,64,1.6,practices with a valid reading in this metro
+robots,Open to every AI crawler tested,Nashville,52,59,88.1,practices with a valid reading in this metro
+robots,Blocks at least one AI crawler,Nashville,5,59,8.5,practices with a valid reading in this metro
+robots,No robots.txt file found,Nashville,2,59,3.4,practices with a valid reading in this metro
+robots,Open to every AI crawler tested,Columbus,52,56,92.9,practices with a valid reading in this metro
+robots,Blocks at least one AI crawler,Columbus,2,56,3.6,practices with a valid reading in this metro
+robots,No robots.txt file found,Columbus,2,56,3.6,practices with a valid reading in this metro
+robots,Open to every AI crawler tested,Tampa,38,42,90.5,practices with a valid reading in this metro
+robots,No robots.txt file found,Tampa,4,42,9.5,practices with a valid reading in this metro
+robots,Open to every AI crawler tested,Salt Lake City,16,20,80.0,practices with a valid reading in this metro
+robots,No robots.txt file found,Salt Lake City,4,20,20.0,practices with a valid reading in this metro
+robots,Open to every AI crawler tested,Other (9 smaller towns),19,21,90.5,practices with a valid reading in this metro
+robots,Blocks at least one AI crawler,Other (9 smaller towns),1,21,4.8,practices with a valid reading in this metro
+robots,No robots.txt file found,Other (9 smaller towns),1,21,4.8,practices with a valid reading in this metro
+schema,No LocalBusiness or Dentist schema at all,ALL,284,527,53.9,practices with a valid reading; measurement errors (0) excluded
+schema,"LocalBusiness present, no FAQPage",ALL,225,527,42.7,practices with a valid reading; measurement errors (0) excluded
+schema,Both LocalBusiness and FAQPage present,ALL,18,527,3.4,practices with a valid reading; measurement errors (0) excluded
+schema,No LocalBusiness or Dentist schema at all,Charlotte,87,153,56.9,practices with a valid reading in this metro
+schema,"LocalBusiness present, no FAQPage",Charlotte,63,153,41.2,practices with a valid reading in this metro
+schema,Both LocalBusiness and FAQPage present,Charlotte,3,153,2.0,practices with a valid reading in this metro
+schema,"LocalBusiness present, no FAQPage",Austin,59,112,52.7,practices with a valid reading in this metro
+schema,No LocalBusiness or Dentist schema at all,Austin,48,112,42.9,practices with a valid reading in this metro
+schema,Both LocalBusiness and FAQPage present,Austin,5,112,4.5,practices with a valid reading in this metro
+schema,No LocalBusiness or Dentist schema at all,Raleigh,39,64,60.9,practices with a valid reading in this metro
+schema,"LocalBusiness present, no FAQPage",Raleigh,23,64,35.9,practices with a valid reading in this metro
+schema,Both LocalBusiness and FAQPage present,Raleigh,2,64,3.1,practices with a valid reading in this metro
+schema,No LocalBusiness or Dentist schema at all,Nashville,37,59,62.7,practices with a valid reading in this metro
+schema,"LocalBusiness present, no FAQPage",Nashville,21,59,35.6,practices with a valid reading in this metro
+schema,Both LocalBusiness and FAQPage present,Nashville,1,59,1.7,practices with a valid reading in this metro
+schema,"LocalBusiness present, no FAQPage",Columbus,31,56,55.4,practices with a valid reading in this metro
+schema,No LocalBusiness or Dentist schema at all,Columbus,22,56,39.3,practices with a valid reading in this metro
+schema,Both LocalBusiness and FAQPage present,Columbus,3,56,5.4,practices with a valid reading in this metro
+schema,No LocalBusiness or Dentist schema at all,Tampa,24,42,57.1,practices with a valid reading in this metro
+schema,"LocalBusiness present, no FAQPage",Tampa,14,42,33.3,practices with a valid reading in this metro
+schema,Both LocalBusiness and FAQPage present,Tampa,4,42,9.5,practices with a valid reading in this metro
+schema,No LocalBusiness or Dentist schema at all,Salt Lake City,15,20,75.0,practices with a valid reading in this metro
+schema,"LocalBusiness present, no FAQPage",Salt Lake City,5,20,25.0,practices with a valid reading in this metro
+schema,No LocalBusiness or Dentist schema at all,Other (9 smaller towns),12,21,57.1,practices with a valid reading in this metro
+schema,"LocalBusiness present, no FAQPage",Other (9 smaller towns),9,21,42.9,practices with a valid reading in this metro
+bing,Indexed in Bing,ALL,256,291,88.0,practices with a valid reading; measurement errors (236) excluded
+bing,Weak or thin Bing index,ALL,35,291,12.0,practices with a valid reading; measurement errors (236) excluded
+review_rating_threshold,Google rating >= 4.3,ALL,506,523,96.7,practices with a Google rating reading
+review_rating_threshold,Google rating >= 4.1,ALL,516,523,98.7,practices with a Google rating reading
+review_rating_threshold,Google rating >= 4.5,ALL,484,523,92.5,practices with a Google rating reading
+site_speed_threshold,First Contentful Paint > 2.5s,ALL,161,256,62.9,practices with a completed speed reading
+site_speed_threshold,First Contentful Paint > 3.0s,ALL,130,256,50.8,practices with a completed speed reading
+site_speed_threshold,First Contentful Paint > 4.0s,ALL,75,256,29.3,practices with a completed speed reading
