@@ -17,10 +17,7 @@ specific pair of dates.
 **License:** CC BY 4.0 (see `LICENSE`) · **Archive DOI:** [10.5281/zenodo.23143214](https://doi.org/10.5281/zenodo.22016876)
 · **Canonical download:** [citevio.com/data](https://citevio.com/data)
 
-> The DOI above archives repository version `v2026-08`, published 19 August 2026. The two v2
-> agency-study files were added to the repository after that archive was cut. Check the file list
-> on the Zenodo record to see which archived version first contains them; the canonical download
-> for the current files is `citevio.com/data`.
+> The DOI above archives repository version `2026-10`, published 4 October 2026. It is the first archived version that contains the two v2 agency-study files. The canonical download is `citevio.com/data`.
 
 ---
 
