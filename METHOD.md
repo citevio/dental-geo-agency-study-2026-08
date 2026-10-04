@@ -240,7 +240,7 @@ A recount that disagrees with a figure above is a finding worth reporting to
 ```
 Citevio (2026). Dental GEO agency-naming study, August 2026 (v2):
 answer-level and agency-level records. CC BY 4.0.
-https://doi.org/10.5281/zenodo.22016876
+https://doi.org/10.5281/zenodo.23143214
 ```
 
 State which file and which date you used. A share quoted without its 82-block denominator is the
