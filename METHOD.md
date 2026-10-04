@@ -14,7 +14,7 @@ specific pair of dates.
 | `data/citevio-agency-study-2026-08-v2-answers.csv` | 82 | one recorded answer block |
 | `data/citevio-agency-study-2026-08-v2-agencies.csv` | 45 | one retained agency label |
 
-**License:** CC BY 4.0 (see `LICENSE`) · **Archive DOI:** [10.5281/zenodo.23143214](https://doi.org/10.5281/zenodo.22016876)
+**License:** CC BY 4.0 (see `LICENSE`) · **Archive DOI:** [10.5281/zenodo.23143214](https://doi.org/10.5281/zenodo.23143214)
 · **Canonical download:** [citevio.com/data](https://citevio.com/data)
 
 > The DOI above archives repository version `2026-10`, published 4 October 2026. It is the first archived version that contains the two v2 agency-study files. The canonical download is `citevio.com/data`.
